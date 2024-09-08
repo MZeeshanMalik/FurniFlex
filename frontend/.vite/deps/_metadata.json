@@ -1,0 +1,124 @@
+{
+  "hash": "59565857",
+  "configHash": "21cfc263",
+  "lockfileHash": "e3b0c442",
+  "browserHash": "8e8b89b2",
+  "optimized": {
+    "@reduxjs/toolkit": {
+      "src": "../../node_modules/@reduxjs/toolkit/dist/redux-toolkit.modern.mjs",
+      "file": "@reduxjs_toolkit.js",
+      "fileHash": "955a3658",
+      "needsInterop": false
+    },
+    "@styled-icons/boxicons-logos/Apple": {
+      "src": "../../node_modules/@styled-icons/boxicons-logos/Apple/Apple.esm.js",
+      "file": "@styled-icons_boxicons-logos_Apple.js",
+      "fileHash": "4af2db20",
+      "needsInterop": false
+    },
+    "@styled-icons/boxicons-logos/Google": {
+      "src": "../../node_modules/@styled-icons/boxicons-logos/Google/Google.esm.js",
+      "file": "@styled-icons_boxicons-logos_Google.js",
+      "fileHash": "c51708e4",
+      "needsInterop": false
+    },
+    "@styled-icons/fa-brands/FacebookF": {
+      "src": "../../node_modules/@styled-icons/fa-brands/FacebookF/FacebookF.esm.js",
+      "file": "@styled-icons_fa-brands_FacebookF.js",
+      "fileHash": "ed186982",
+      "needsInterop": false
+    },
+    "@styled-icons/fa-brands/Instagram": {
+      "src": "../../node_modules/@styled-icons/fa-brands/Instagram/Instagram.esm.js",
+      "file": "@styled-icons_fa-brands_Instagram.js",
+      "fileHash": "f94f4eda",
+      "needsInterop": false
+    },
+    "@styled-icons/fa-brands/LinkedinIn": {
+      "src": "../../node_modules/@styled-icons/fa-brands/LinkedinIn/LinkedinIn.esm.js",
+      "file": "@styled-icons_fa-brands_LinkedinIn.js",
+      "fileHash": "deba60c3",
+      "needsInterop": false
+    },
+    "@styled-icons/fa-brands/Twitter": {
+      "src": "../../node_modules/@styled-icons/fa-brands/Twitter/Twitter.esm.js",
+      "file": "@styled-icons_fa-brands_Twitter.js",
+      "fileHash": "1feca2bb",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "9effc048",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "639d0f3c",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "454e4e14",
+      "needsInterop": true
+    },
+    "react-icons/fa": {
+      "src": "../../node_modules/react-icons/fa/index.mjs",
+      "file": "react-icons_fa.js",
+      "fileHash": "71eddf7b",
+      "needsInterop": false
+    },
+    "react-icons/fi": {
+      "src": "../../node_modules/react-icons/fi/index.mjs",
+      "file": "react-icons_fi.js",
+      "fileHash": "b18117a3",
+      "needsInterop": false
+    },
+    "react-redux": {
+      "src": "../../node_modules/react-redux/dist/react-redux.mjs",
+      "file": "react-redux.js",
+      "fileHash": "cc7ae9fc",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "3b6ad2df",
+      "needsInterop": false
+    },
+    "react-toastify": {
+      "src": "../../node_modules/react-toastify/dist/react-toastify.esm.mjs",
+      "file": "react-toastify.js",
+      "fileHash": "60076597",
+      "needsInterop": false
+    },
+    "styled-components": {
+      "src": "../../node_modules/styled-components/dist/styled-components.browser.esm.js",
+      "file": "styled-components.js",
+      "fileHash": "60c70510",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-JMVEG3FK": {
+      "file": "chunk-JMVEG3FK.js"
+    },
+    "chunk-IGAL4HQT": {
+      "file": "chunk-IGAL4HQT.js"
+    },
+    "chunk-LYDP43WA": {
+      "file": "chunk-LYDP43WA.js"
+    },
+    "chunk-7HX2W676": {
+      "file": "chunk-7HX2W676.js"
+    },
+    "chunk-TWJRYSII": {
+      "file": "chunk-TWJRYSII.js"
+    },
+    "chunk-DC5AMYBS": {
+      "file": "chunk-DC5AMYBS.js"
+    }
+  }
+}

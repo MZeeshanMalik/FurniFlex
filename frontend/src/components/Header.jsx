@@ -179,7 +179,7 @@ const Header = () => {
 
         {/* Navigation */}
         <Nav>
-          <a href="/home">Home</a>
+          <a href="/">Home</a>
           <a href="#" className="active">
             Products
           </a>
@@ -203,7 +203,7 @@ const Header = () => {
       {/* Sidebar for small screens */}
       <Overlay isOpen={sidebarOpen} onClick={toggleSidebar} />
       <Sidebar isOpen={sidebarOpen}>
-        <a href="/home" className="active">
+        <a href="/" className="active">
           Home
         </a>
         <a href="#">Products</a>

@@ -196,7 +196,7 @@ const Header = () => {
               <CartBadge>{cart.cart.length}</CartBadge>
             </CartIcon>
           </a>
-          <ProfileImage src="../../public/images/account.svg" alt="Profile" />
+          <ProfileImage src="../../images/account.svg" alt="Profile" />
         </IconsWrapper>
       </HeaderWrapper>
 
